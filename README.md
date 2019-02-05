@@ -1,6 +1,14 @@
 # feedgram
 
-A new Flutter project.
+A Flutter Implementation of Instagram App.
+
+Features:
+1. Images
+2. Videos
+3. UI
+
+Upcoming:
+Stories
 
 ## Getting Started
 
